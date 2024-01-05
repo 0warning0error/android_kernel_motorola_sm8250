@@ -10,7 +10,7 @@ Description:
 		Example:
 		Enable USB data functionality
 		# echo 1 > /sys/class/udc/.../device/usb_data_enabled
-￼
+
 		Disable USB data functionality
 		# echo 0 > /sys/class/udc/.../device/usb_data_enabled
-￼
+
